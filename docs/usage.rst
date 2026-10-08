@@ -1,4 +1,5 @@
-# Guia de Uso — moodle-block_recommendation
+Guia de Uso
+===========
 
 1. Acesse a Página Inicial do site Moodle ou o seu Painel (`/my`).
 2. Ative o **Modo de Edição** no canto superior direito.
